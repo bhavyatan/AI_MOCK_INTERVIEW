@@ -9,7 +9,7 @@ export default function Page() {
     <aside className="relative block h-16 lg:order-last lg:col-span-5 lg:h-full xl:col-span-6">
       <img
         alt=""
-        src="https://images.piclumen.com/normal/20241224/15/f3c4414dd0a947a0a1664fe062123486.webp"
+        src="/sign.png"
         className="absolute inset-0 h-full w-full object-cover"
       />
     </aside>
